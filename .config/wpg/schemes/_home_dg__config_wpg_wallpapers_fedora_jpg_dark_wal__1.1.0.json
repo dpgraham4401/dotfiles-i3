@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/dg/.config/wpg/wallpapers/fedora.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090F1A",
+        "foreground": "#cedff3",
+        "cursor": "#cedff3"
+    },
+    "colors": {
+        "color0": "#090F1A",
+        "color1": "#455A79",
+        "color2": "#315A94",
+        "color3": "#546E91",
+        "color4": "#6F8BB1",
+        "color5": "#7C9AC4",
+        "color6": "#8FAED8",
+        "color7": "#cedff3",
+        "color8": "#909caa",
+        "color9": "#455A79",
+        "color10": "#315A94",
+        "color11": "#546E91",
+        "color12": "#6F8BB1",
+        "color13": "#7C9AC4",
+        "color14": "#8FAED8",
+        "color15": "#cedff3"
+    }
+}

@@ -1,0 +1,29 @@
+# Ingore all
+*
+
+# Except these files
+!.bashrc
+!.gitignore
+
+!.vim/
+.vim/*
+!.vim/vimrc
+
+!.config/
+.config/*
+!.config/i3/
+.config/i3/*
+!.config/i3/config
+
+!.config/polybar/
+.config/polybar/*
+!.config/polybar/config
+
+!.config/wpg
+.config/wpg/*
+!.config/wpg/wpg.conf
+
+!.config/wpg/schemes
+.config/wpg/schemes/*
+!.config/wpg/schemes/_home_dg__config_wpg_wallpapers_fedora_jpg_dark_wal__1.1.0.json
+
