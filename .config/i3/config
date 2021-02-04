@@ -165,13 +165,6 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
-#colors
-set $bg_clr		#225577
-set $txt_clr		#f3f4f5
-set $inact_bg_clr	#777777
-set $drk_grey		#222222
-set $brdr_blue		#227777
-
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 
 #compton
